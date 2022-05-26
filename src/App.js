@@ -1,11 +1,12 @@
 import "./App.css";
-import Main from "./Main/Main";
+import List from "./List/List";
+import Panel from "./Panel/Panel";
 
 function App() {
   return (
     <div className="App">
-      salam
-      <Main />
+      <Panel />
+      <List />
     </div>
   );
 }

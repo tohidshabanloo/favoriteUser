@@ -1,0 +1,49 @@
+.panel {
+  text-align: left;
+  float: left;
+  margin: auto;
+  width: 40%;
+  padding: 5px 20px;
+  border: 1px solid blue;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: rgb(180, 243, 222);
+}
+.person {
+  font-size: 10px;
+  font-weight: bold;
+  padding: 5px;
+  border: 1px solid rgb(5, 136, 66);
+  text-align: left;
+  margin-top: 2px;
+  border-radius: 10px;
+  background-color: rgb(10, 248, 169);
+}
+.namesec,
+.surnamesec {
+  margin-left: 20px;
+}
+.heart {
+  margin-left: 200px;
+  font-size: 20px;
+  color: black;
+  cursor: pointer;
+}
+.heart:hover {
+  color: red;
+  font-size: 21px;
+}
+.name {
+  background-color: rgb(1, 188, 125);
+  color: white;
+  padding: 1px 13px;
+  margin-right: 5px;
+  border-radius: 6px;
+}
+.surname {
+  background-color: rgb(1, 188, 125);
+  color: white;
+  padding: 1px 5px;
+  margin-right: 5px;
+  border-radius: 6px;
+}
